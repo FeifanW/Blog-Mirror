@@ -1,2 +1,2 @@
-# Blog-Mirror
-博客文章备份
+# 博客文章&笔记备份
+.one文件请用Onenote打开
